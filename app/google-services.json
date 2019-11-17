@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "634400429995",
+    "firebase_url": "https://otp-authentication-94090.firebaseio.com",
+    "project_id": "otp-authentication-94090",
+    "storage_bucket": "otp-authentication-94090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634400429995:android:115c24463c20d88a0324ee",
+        "android_client_info": {
+          "package_name": "com.rishav.otpauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634400429995-sa3hb5pqpr1ts61r0i3dhdbarpdikebr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishav.otpauthentication",
+            "certificate_hash": "a25154fad11165a43610770b0f8f87b2b026e443"
+          }
+        },
+        {
+          "client_id": "634400429995-hhouecgi42kgdf1stdk9umsucvf92u90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgH9AOoprsa-iBp_TaOgCNqd0ulIWVT8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634400429995-hhouecgi42kgdf1stdk9umsucvf92u90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
